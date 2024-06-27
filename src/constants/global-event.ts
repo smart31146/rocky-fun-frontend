@@ -1,0 +1,1 @@
+export const COIN_SHAKING_EVENT = "coin:shake"
